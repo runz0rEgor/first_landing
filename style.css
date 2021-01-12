@@ -60,7 +60,7 @@ body {
 }
 
 .list__quote {
-    margin: 0 auto;
+    margin: 0 auto 50px auto;
     max-width: 600px;
     font-style: italic;
     color: #333;
@@ -70,5 +70,7 @@ body {
 }
 
 .list__footer {
+    color: #333;
+    line-height: 1.5;
     text-align: center;
 }
